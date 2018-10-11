@@ -511,6 +511,15 @@ h4.title .button:hover{
 	text-decoration: none;
 }
 /* end h4 title style */
+h5.leftSpaceTittle{
+    display: block;
+	 padding-left: 30px;
+}
+
+p.leftSpaceP{
+    display: block;
+	 padding-left: 50px;
+}
 
 /* our clients
 ----------------------------------------------------------------------------- */
@@ -764,6 +773,9 @@ section.our_client .row{
 		left:35%;
 		
 	}
+        .leftlogo{
+            left:35%;
+        }
 	#copyright,#footer-bar{
 		padding:0 10px;
 	}

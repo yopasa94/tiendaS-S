@@ -13,6 +13,7 @@
 		<!-- global styles -->
 		<link href="themes/css/flexslider.css" rel="stylesheet"/>
 		<link href="themes/css/main.css" rel="stylesheet"/>
+                
 
 		<!-- scripts -->
 		<script src="themes/js/jquery-1.7.2.min.js"></script>
